@@ -1,0 +1,32 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-sqlite",
+  "version": "0.0.1",
+  "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
+  "main": "",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.3.1",
+    "ytdl-core": "^3.3.0",
+    "@discordjs/opus": "^0.3.2",
+    "ffmpeg-static": "^4.2.7",
+    "yt-search": "^2.3.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-sqlite"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
